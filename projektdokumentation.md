@@ -40,8 +40,27 @@ Für die Ansteuerung der Datenbank gibt es eine vom Spiel separate Seite mit For
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |                 |      | Als Administrator möchte ich mich mit durch Benutzername und Passwort Authentifizieren können, damit der Datenbank nur von mir bearbeitet werden kann. |
+| ...  |                 |      | Als Administrator möchte ich Phrasen und Rätselwörter in der Datenbank anlegen, ändern und löschen können, damit die gefragten Phrasen und Rätselwörter im Spiel abwechslungsreich sein können.                                  |
+| ...  |                 |      | Als Administrator möchte ich in der Datenbank Kategorien anlegen und jedes Wort bzw. jede Frage
+einer Kategorie zuordnen können, damit man im Spiel mit Wörtern verschiedener Kategorien spielen kann. 
+                                   |
+| ...  |                 |      |    Als Administrator möchte ich in der Datenbank einzelne Einträge der Highscore-Liste löschen können, um Kontrolle über die Highscore-Liste zu haben.                                |
+| ...  |                 |      |  Als Kandidat möchte ich einen Namen eingeben können, damit dieser auf der Highscore-Liste erscheint.                                  |
+| ...  |                 |      | Als Kandidat möchte ich zu jeder Zeit den Kontostand sehen, damit man über den Kontostand bewusst ist.                                   |
+| ...  |                 |      | Als Kandidat möchte ich zu jeder Zeit die Lebenspunkte sehen, damit man über die Anzahl Lebenspunkte bewusst ist.                                   |
+| ...  |                 |      |      Als Kandidat möchte ich die in der Highscore Liste aufgeführten aktuellen Daten (Rang, Name des Spielers, Zeitpunkt des Spiels und Geldbetrag, Anzahl Spielrunden) zu jeder Zeit sehen, damit ich über den Fakt, ob eine Antwort richtig oder falsch war, informiert werde.                              |
+| ...  |                 |      | Als Kandidat möchte ich, dass die Highscore-Liste nach Rang, der durch die Höhe des Geldbetrags
+bestimmt wird, aufsteigend sortiert wird, damit ich über die Rangliste informiert werde. 
+                                   |
+| ...  |                 |      |   Als Kandidat möchte ich, dass mir kein Rätselwort und keine Phrase mehr als einmal gestellt
+Werden, damit die Fragen im Spiel abwechslungsreich sind. 
+                                 |
+| ...  |                 |      |      Als Kandidat möchte ich zu jederzeit entweder spielen oder aufhören können und meinen Gewinn
+in die Highscore-Liste übernehmen, damit ich das Spiel entweder weiterspielen oder aufhören kann.
+                              |
+| ...  |                 |      |    Als Kandidat möchte ich, dass das Spiel mit einer spielbaren Anzahl Wörtern und Fragen gefüllt ist, damit ich spielen kann.                                 |
+| ...  |                 |      |    Als Kandidat möchte ich, dass die Anzahl der Spielrunden gezählt wird, um darüber informiert zu werden.                                 |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
