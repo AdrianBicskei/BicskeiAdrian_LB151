@@ -13,7 +13,7 @@ Bicskei
 
 # 0 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Bei diesem Projekt handelt es sich um eine abgewandte abgewandelte Version der Fernsehquiz Glücksrad als eine Webapplikation, welcher mit einer Datenbank verbunden ist. 
 
 # 1 Analyse
 
