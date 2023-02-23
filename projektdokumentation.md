@@ -47,11 +47,9 @@ Für die Ansteuerung der Datenbank gibt es eine vom Spiel separate Seite mit For
 | ...  |                 |      |  Als Kandidat möchte ich einen Namen eingeben können, damit dieser auf der Highscore-Liste erscheint.                                  |
 | ...  |                 |      | Als Kandidat möchte ich zu jeder Zeit den Kontostand sehen, damit man über den Kontostand bewusst ist.                                   |
 | ...  |                 |      | Als Kandidat möchte ich zu jeder Zeit die Lebenspunkte sehen, damit man über die Anzahl Lebenspunkte bewusst ist.                                   |
-| ...  |                 |      |      Als Kandidat möchte ich die in der Highscore Liste aufgeführten aktuellen Daten (Rang, Name des Spielers, Zeitpunkt des Spiels und Geldbetrag, Anzahl Spielrunden) zu jeder Zeit sehen, damit ich über den Fakt, ob eine Antwort richtig oder falsch war, informiert werde.                              |
-| ...  |                 |      | Als Kandidat möchte ich, dass die Highscore-Liste nach Rang, der durch die Höhe des Geldbetrags bestimmt wird, aufsteigend sortiert wird, damit ich über die Rangliste informiert werde. 
-                                   |
-| ...  |                 |      |   Als Kandidat möchte ich, dass mir kein Rätselwort und keine Phrase mehr als einmal gestellt Werden, damit die Fragen im Spiel abwechslungsreich sind. 
-                                 |
+| ...  |                 |      |      Als Kandidat möchte ich die in der Highscore Liste aufgeführten aktuellen Daten (Rang, Name des Spielers, Zeitpunkt des Spiels und Geldbetrag, Anzahl Spielrunden) zu jeder Zeit sehen, damit ich über den Fakt, ob eine Antwort richtig oder falsch war, informiert werde.                          |
+| ...  |                 |      | Als Kandidat möchte ich, dass die Highscore-Liste nach Rang, der durch die Höhe des Geldbetrags bestimmt wird, aufsteigend sortiert wird, damit ich über die Rangliste informiert werde.  |
+| ...  |                 |      |   Als Kandidat möchte ich, dass mir kein Rätselwort und keine Phrase mehr als einmal gestellt Werden, damit die Fragen im Spiel abwechslungsreich sind. |
 | ...  |                 |      |      Als Kandidat möchte ich zu jederzeit entweder spielen oder aufhören können und meinen Gewinn in die Highscore-Liste übernehmen, damit ich das Spiel entweder weiterspielen oder aufhören kann. |
 | ...  |                 |      |    Als Kandidat möchte ich, dass das Spiel mit einer spielbaren Anzahl Wörtern und Fragen gefüllt ist, damit ich spielen kann.      |
 | ...  |                 |      |    Als Kandidat möchte ich, dass die Anzahl der Spielrunden gezählt wird, um darüber informiert zu werden.                          |
