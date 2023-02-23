@@ -42,9 +42,7 @@ Für die Ansteuerung der Datenbank gibt es eine vom Spiel separate Seite mit For
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |                 |      | Als Administrator möchte ich mich mit durch Benutzername und Passwort Authentifizieren können, damit der Datenbank nur von mir bearbeitet werden kann. |
 | ...  |                 |      | Als Administrator möchte ich Phrasen und Rätselwörter in der Datenbank anlegen, ändern und löschen können, damit die gefragten Phrasen und Rätselwörter im Spiel abwechslungsreich sein können.                                  |
-| ...  |                 |      | Als Administrator möchte ich in der Datenbank Kategorien anlegen und jedes Wort bzw. jede Frage
-einer Kategorie zuordnen können, damit man im Spiel mit Wörtern verschiedener Kategorien spielen kann. 
-                                   |
+| ...  |                 |      | Als Administrator möchte ich in der Datenbank Kategorien anlegen und jedes Wort bzw. jede Frage einer Kategorie zuordnen können, damit man im Spiel mit Wörtern verschiedener Kategorien spielen kann. |
 | ...  |                 |      |    Als Administrator möchte ich in der Datenbank einzelne Einträge der Highscore-Liste löschen können, um Kontrolle über die Highscore-Liste zu haben.                                |
 | ...  |                 |      |  Als Kandidat möchte ich einen Namen eingeben können, damit dieser auf der Highscore-Liste erscheint.                                  |
 | ...  |                 |      | Als Kandidat möchte ich zu jeder Zeit den Kontostand sehen, damit man über den Kontostand bewusst ist.                                   |
