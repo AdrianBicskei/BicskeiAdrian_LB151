@@ -7,8 +7,8 @@ Bicskei
 | 26.01 | 0.0.1   | Ich habe das GitHub Repository erstellt und mich zum Python Flask mit Datenbanken verbunden informiert.   |
 | 02.02 | 0.0.2   | Ich habe die 4 Tiers beschrieben und die User Storys angefangen.           |       
 | 09.02 | 0.0.3   | Ich habe die User Storys fertiggestellt und die Testfälle angefangen.     |
-| 23.02 | 0.0.4   |                                                              |
-|       | 0.0.6   |                                                              |
+| 16.02 | 0.0.4   | Ich habe mit dem erstellen der Applikation begonnen.                                                             |
+| 23.02 | 0.0.6   |                                                              |
 |       | 1.0.0   |                                                              |
 
 # 0 Ihr Projekt
