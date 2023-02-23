@@ -19,10 +19,10 @@ Bei diesem Projekt handelt es sich um eine abgewandte abgewandelte Version der 
 
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
-* Tier 1 (Presentation): ...
-* Tier 2 (Webserver):
-* Tier 3 (Application Server):
-* Tier 4 (Dataserver):
+* Tier 1 (Presentation): User Interfache
+* Tier 2 (Webserver): Steuerung
+* Tier 3 (Application Server): Geschäftslogik
+* Tier 4 (Dataserver): Peristenz
 
 # 2 Technologie
 
@@ -30,7 +30,7 @@ Bei diesem Projekt handelt es sich um eine abgewandte abgewandelte Version der 
 
 # 3 Datenbank
 
-✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut? 
+Für die Ansteuerung der Datenbank gibt es eine vom Spiel separate Seite mit Formularfeldern, welche nur dem Administrator durch Authentifizierung zugänglich ist. 
 
 # 4.1 User Stories
 
