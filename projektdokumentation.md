@@ -1,14 +1,16 @@
 # Projekt-Dokumentation
 
-✍️ Ihr Nachname
+Bicskei
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | 0.0.2   |                                                              |
-|       | 0.0.3   |                                                              |
-|       | 0.0.4   |                                                              |
-|       | 0.0.5   |                                                              |
+| 26.01 | 0.0.1   | Ich habe das GitHub Repository erstellt und mich zum Python  |
+|       |         | Flask mit Datenbanken verbunden informiert.                  | 
+| 02.02 | 0.0.2   | Ich habe die 4 Tiers beschrieben und die User Storys         |
+|       |         | angefangen.                                                  |          
+| 09.02 | 0.0.3   | Ich habe die User Storys fertiggestellt und die Testfälle    |
+|       |         | angefangen.                                                  |
+| 23.02 | 0.0.4   |                                                              |
 |       | 0.0.6   |                                                              |
 |       | 1.0.0   |                                                              |
 
