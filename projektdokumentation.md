@@ -4,7 +4,7 @@ Bicskei
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 26.01 | 0.0.1   | Ich habe das GitHub Repository erstellt und mich zum Python  |
+| 26.01 | 0.0.1   | Ich habe das GitHub Repository erstellt und mich zum Python Flask mit Datenbanken verbunden informiert.   |
 |       |         | Flask mit Datenbanken verbunden informiert.                  | 
 | 02.02 | 0.0.2   | Ich habe die 4 Tiers beschrieben und die User Storys         |
 |       |         | angefangen.                                                  |          
