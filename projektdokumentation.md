@@ -77,10 +77,10 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 | 4.1 |       Als Admin eingeloggt, Bild für Spieler löschen ausgewählt       |     id: 39   |        Neue Liste ohne Spieler ID 39          |
 | B.2  |       Als Admin eingeloggt, Bild für Spieler löschen ausgewählt        |    -      |        Drop User Page           |
 | D.2  |       Als Admin eingeloggt, Bild für Wörter Spieler löschen ausgewählt        |    -      |          Spieler Tabelle        |
-| 5.1 |      Spiel Bild ausgewählt       |     Name: Adrian  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert, Page zum Rad drehen         |
-| 7.1|      Spiel Bild ausgewählt, Name eingegeben       |   -    |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert |
-| 8.1  |    Spiel Bild ausgewählt, Name eingegeben        |  -    |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert       |
-| C.1  |     Spiel Bild ausgewählt, Name eingegeben      |  Rad drehen    |       Guess Page       |
+| 5.1 |      Spiel-Bild ausgewählt       |     Name: Adrian  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert, Page zum Rad drehen         |
+| 7.1|      Spiel-Bild ausgewählt, Name eingegeben       |   -    |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert |
+| 8.1  |    Spiel-Bild ausgewählt, Name eingegeben        |  -    |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert       |
+| C.1  |     Spiel-Bild ausgewählt, Name eingegeben      |  Rad drehen    |       Guess Page       |
 | 7.2 |     Rad gedreht       |    -  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert       |
 | 8.2 |     Rad gedreht       |    -  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert       |
 | 11.1 |     Als Admin eingeloggt, Bild für Wörter anlegen      |     -  |        Mindestens 15 Wörter angelegt      |
