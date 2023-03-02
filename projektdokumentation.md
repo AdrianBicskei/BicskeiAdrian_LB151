@@ -114,10 +114,10 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 | 16  |     nein      |   -                                        |
 | 17  |     nein      |    -                                       |
 | 18  |     nein      |    -                                       |
-| A  |     ja      |         views. py                                   |
-| B  |    ja       |          views. py                                  |
-| C  |     nein      |       -                                    |
-| D  |    ja       |         views. py                                   |
+| A  |     ja      |         -                                  |
+| B  |    ja       |         -                                 |
+| C  |     ja      |       -                                    |
+| D  |    ja       |         -                                  |
 
 # 8 Testprotokoll
 
