@@ -170,7 +170,7 @@ Grundsätzlich hat alles funktioniert. Das einzige Problem ist, dass man auf dem
 
 # 9 `README.md`
 
-
+Siehe in README.md File für Python Library Versionen und für die zu erzeugende Tabellen.
 
 # 10 Allgemeines
 
