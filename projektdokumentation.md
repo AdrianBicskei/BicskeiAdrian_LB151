@@ -170,7 +170,7 @@ Grundsätzlich hat alles funktioniert. Das einzige Problem ist, dass man auf dem
 
 # 9 `README.md`
 
-✍️ Beschreiben Sie ausführlich in einer README.md, wie Ihre Applikation gestartet und ausgeführt wird. Legen Sie eine geeignete Möglichkeit (Skript, Export, …) bei, Ihre Datenbank wiederherzustellen.
+
 
 # 10 Allgemeines
 
