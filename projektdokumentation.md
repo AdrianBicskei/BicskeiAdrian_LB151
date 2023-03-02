@@ -166,7 +166,7 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 | 8.3  |  02.03      |     ok     |    Adrian Bicskei      |
 
 
-Grundsätzlich hat alles funktioniert. Das einzige Problem ist das man auf dem Video nicht sieht, wenn man beim Bankrott den ganzen Geldbetrag verliert. Ebenfalls haben die 15 angelegten Wörter in der Datenbank gefehlt, was aber kein funktionaler Fehler ist. 
+Grundsätzlich hat alles funktioniert. Das einzige Problem ist, dass man auf dem Video nicht sieht, wenn man beim Bankrott den ganzen Geldbetrag verliert. Ebenfalls haben die 15 angelegten Wörter in der Datenbank gefehlt, was aber kein funktionaler Fehler ist.
 
 # 9 `README.md`
 
