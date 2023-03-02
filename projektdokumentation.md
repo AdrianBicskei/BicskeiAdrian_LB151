@@ -140,32 +140,32 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| A.1  |  02.03     |          |  Adrian Bicskei      |
-| 1.1  |   02.03     |          |    Adrian Bicskei      |
-| 2.1  |   02.03     |          |   Adrian Bicskei       |
-| 3.1  |   02.03     |          |    Adrian Bicskei      |
-| B.1  |  02.03      |          |   Adrian Bicskei       |
-| D.1  |  02.03      |          |    Adrian Bicskei      |
-| 4.1  |  02.03      |          |        |Adrian Bicskei  
-| B.2  |  02.03      |          |       Adrian Bicskei   |
-| D.2  |  02.03      |          |  Adrian Bicskei        |
-| 5.1  |  02.03      |          |   Adrian Bicskei       |
-| 7.1  |  02.03      |          |   Adrian Bicskei       |
-| 8.1  |   02.03     |          |   Adrian Bicskei       |
-| C.1  |   02.03     |          |   Adrian Bicskei       |
-| 7.2  |   02.03     |          |    Adrian Bicskei      |
-| 8.2  |   02.03     |          |    Adrian Bicskei      |
-| 11.1  |  02.03      |          |   Adrian Bicskei       |
-| D.3  |   02.03     |          |   Adrian Bicskei       |
-| 13.1  |  02.03      |          |  Adrian Bicskei        |
-| 14.1  |   02.03     |          |  Adrian Bicskei        |
-| 15.1  |   02.03     |          |  Adrian Bicskei        |
-| E.1  |    02.03    |          |   Adrian Bicskei       |
-| 7.3  |   02.03     |          |    Adrian Bicskei      |
-| 8.3  |  02.03      |          |    Adrian Bicskei      |
+| A.1  |  02.03     |     ok     |  Adrian Bicskei      |
+| 1.1  |   02.03     |     ok     |    Adrian Bicskei      |
+| 2.1  |   02.03     |     ok     |   Adrian Bicskei       |
+| 3.1  |   02.03     |      ok    |    Adrian Bicskei      |
+| B.1  |  02.03      |      ok    |   Adrian Bicskei       |
+| D.1  |  02.03      |     ok     |    Adrian Bicskei      |
+| 4.1  |  02.03      |    ok      |        Adrian Bicskei   |
+| B.2  |  02.03      |    ok      |       Adrian Bicskei   |
+| D.2  |  02.03      |     ok     |  Adrian Bicskei        |
+| 5.1  |  02.03      |    ok      |   Adrian Bicskei       |
+| 7.1  |  02.03      |     ok     |   Adrian Bicskei       |
+| 8.1  |   02.03     |    ok      |   Adrian Bicskei       |
+| C.1  |   02.03     |    ok      |   Adrian Bicskei       |
+| 7.2  |   02.03     |    ok      |    Adrian Bicskei      |
+| 8.2  |   02.03     |     ok     |    Adrian Bicskei      |
+| 11.1  |  02.03      |     nok     |   Adrian Bicskei       |
+| D.3  |   02.03     |       ok   |   Adrian Bicskei       |
+| 13.1  |  02.03      |     ok     |  Adrian Bicskei        |
+| 14.1  |   02.03     |     ok     |  Adrian Bicskei        |
+| 15.1  |   02.03     |      ok    |  Adrian Bicskei        |
+| E.1  |    02.03    |       ok   |   Adrian Bicskei       |
+| 7.3  |   02.03     |     ok     |    Adrian Bicskei      |
+| 8.3  |  02.03      |     ok     |    Adrian Bicskei      |
 
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Grundsätzlich hat alles funktioniert. Das einzige Problem ist das man auf dem Video nicht sieht, wenn man beim Bankrott den ganzen Geldbetrag verliert. Ebenfalls haben die 15 angelegten Wörter in der Datenbank gefehlt, was aber kein funktionaler Fehler ist. 
 
 # 9 `README.md`
 
