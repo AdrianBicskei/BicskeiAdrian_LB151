@@ -74,7 +74,7 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 | 3.1 |       Als Admin eingeloggt, Bild für Wörter anlegen ausgewählt       |      Kategorie: Automarke    |        Neue Liste mit Skoda enthalten        |$
 | B.1  |       Als Admin eingeloggt, Bild für Wörter anlegen ausgewählt         |    -      |        Add Word Page           |
 | D.1  |       Als Admin eingeloggt, Bild für Wörter anlegen ausgewählt         |    -      |          Wörter Tabelle        |
-| 4.1 |       Als Admin eingeloggt, Bild für Spieler löschen ausgewählt       |     id: 39   |        Neue Liste ohne Spieler ID 39          |
+| 4.1 |       Als Admin eingeloggt, Bild für Spieler löschen ausgewählt       |     id: xy   |        Neue Liste ohne Spieler ID xy          |
 | B.2  |       Als Admin eingeloggt, Bild für Spieler löschen ausgewählt        |    -      |        Drop User Page           |
 | D.2  |       Als Admin eingeloggt, Bild für Wörter Spieler löschen ausgewählt        |    -      |          Spieler Tabelle        |
 | 5.1 |      Spiel-Bild ausgewählt       |     Name: Adrian  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert, Page zum Rad drehen         |
