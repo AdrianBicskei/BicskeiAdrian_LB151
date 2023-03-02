@@ -47,7 +47,7 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 | 6  |         Muss        |   Rahmenbedingung   | Als Kandidat möchte ich zu jeder Zeit die Lebenspunkte sehen, damit man über die Anzahl Lebenspunkte bewusst ist.                                   |
 | 7 |        Muss         |   Rahmenbedingung   |      Als Kandidat möchte ich die in der Highscore Liste aufgeführten aktuellen Daten (Rang, Name des Spielers, Zeitpunkt des Spiels und Geldbetrag, Anzahl Spielrunden) zu jeder Zeit sehen, damit ich über den Fakt, ob eine Antwort richtig oder falsch war, informiert werde.                          |
 | 8  |        Muss         |   Funktional   | Als Kandidat möchte ich, dass die Highscore-Liste nach Rang, der durch die Höhe des Geldbetrags bestimmt wird, aufsteigend sortiert wird, damit ich über die Rangliste informiert werde.  |
-| 9  |         Unwichtig        |    Funktional  |   Als Kandidat möchte ich, dass mir kein Rätselwort und keine Phrase mehr als einmal gestellt werden, damit die Fragen im Spiel abwechslungsreich sind. |
+| 9  |         Kann        |    Funktional  |   Als Kandidat möchte ich, dass mir kein Rätselwort und keine Phrase mehr als einmal gestellt werden, damit die Fragen im Spiel abwechslungsreich sind. |
 | 10  |        Muss         |   Funktional   |      Als Kandidat möchte ich zu jederzeit entweder spielen oder aufhören können und meinen Gewinn in die Highscore-Liste übernehmen, damit ich das Spiel entweder weiterspielen oder aufhören kann. |
 | 11  |         Kann        |   Qualität   |    Als Kandidat möchte ich, dass das Spiel (der Datenbank) mit einer spielbaren Anzahl Wörtern und Fragen gefüllt ist, damit ich spielen kann.      |
 | 12  |        Muss         |   Funktional   |    Als Kandidat möchte ich, dass die Anzahl der Spielrunden gezählt wird, um darüber informiert zu werden.                          |
@@ -86,36 +86,38 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 
 # 6 Implementation
 
-✍️ Halten Sie fest, wann Sie welche User Story bearbeitet haben
-
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
-| 1, 2, 3, 4, A, B, D    | 16.02      |   User Stories zur Administrator und Steuerung          |
-| 5, 7, 8  | 16.02      |   User Stories zur Kandidat und Highscore Liste         |
+| 1, 2, 3, 4, A, B, D    | 16.02      |   Besteuerung der Datenbank und Navigation          |
+| 5, 7, 8  | 23.02      |    Highscore Liste         |
+| 11, 13, 14, 15| 26.02      |   Füllung der Datenbank, Bankrott und Geldbetrag X      |
 
 # 7 Projektdokumentation
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja / nein |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
-| ...  |           |                                           |
+| 1    | ja  |            views. py                               |
+| 2  |    ja       |       views. py                                     |
+| 3  |ja|                   views. py                         |
+| 4  |    ja       |         views. py                                   |
+| 5  |    ja       |          views. py                                  |
+| 6  |      nein     |     -                                      |
+| 7  |      ja     |        views. py                                    |
+| 8  |     ja      |         views. py                                   |
+| 9  |     nein      |     -                                      |
+| 10  |      nein     |     -                                      |
+| 11  |     ja      |          views. py                                  |
+| 12  |     nein      |    -                                       |
+| 13  |     ja      |           views. py                                 |
+| 14  |      ja     |         views. py                                   |
+| 15  |      ja     |          views. py                                  |
+| 16  |     nein      |   -                                        |
+| 17  |     nein      |    -                                       |
+| 18  |     nein      |    -                                       |
+| A  |     ja      |         views. py                                   |
+| B  |    ja       |          views. py                                  |
+| C  |     nein      |       -                                    |
+| D  |    ja       |         views. py                                   |
 
 # 8 Testprotokoll
 
