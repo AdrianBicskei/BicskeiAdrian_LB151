@@ -86,7 +86,7 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 | 11.1 |     Als Admin eingeloggt, Bild für Wörter anlegen      |     -  |        Mindestens 15 Wörter angelegt      |
 | D.3 |     Als Admin eingeloggt, Bild für Wörter anlegen      |     -  |        Mindestens 15 Wörter angelegt      |
 | 13.1 |    "random_bool" manuell auf False stellen, beim aktuellen Spieler manuell durch SQL-Befhel den Guthaben von 1500 setzen     |    Rad drehen |        Bankrott Page, Guthaben in der Highscore-Liste auf 0      |
-| 14.1 |    beim aktuellen Spieler manuell durch SQL-Befhel den Guthaben von 1500 setzen     |    Rad drehen |        Bankrott Page, Guthaben in der Highscore-Liste auf 0      |
+| 14.1 |    -     |    Rad drehen |        Guess Page     |
 | 15.1 |   Rad gedreht     |   -  |        Guess Page, Kategorie: Automarke, Frage: Mercedes, mit zufälligen Buchstaben abgedeckt, Highscore-Liste   |
 | E.1 |    Rad gedreht     |   - |        Guess Page, Kategorie: Automarke, Frage: Mercedes, mit zufälligen Buchstaben abgedeckt, Highscore-Liste   |
 | 7.3 |    Rad gedreht    |    - |        Guess Page, Kategorie: Automarke, Frage: Mercedes, mit zufälligen Buchstaben abgedeckt, Highscore-Liste    |
