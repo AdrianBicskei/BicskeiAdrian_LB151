@@ -96,21 +96,21 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja  |            views. py                               |
-| 2  |    ja       |       views. py                                     |
-| 3  |ja|                   views. py                         |
-| 4  |    ja       |         views. py                                   |
-| 5  |    ja       |          views. py                                  |
+| 1    | ja  |            views. py, def adminpage()                            |
+| 2  |    ja       |       views. py , def newlist()                                    |
+| 3  |ja|                   views. py, def newlist()                       |
+| 4  |    ja       |         views. py, def newlist()                                    |
+| 5  |    ja       |          views. py, def game()                                 |
 | 6  |      nein     |     -                                      |
-| 7  |      ja     |        views. py                                    |
+| 7  |      ja     |        views. py, def guess()                                    |
 | 8  |     ja      |         views. py                                   |
 | 9  |     nein      |     -                                      |
 | 10  |      nein     |     -                                      |
 | 11  |     ja      |          views. py                                  |
 | 12  |     nein      |    -                                       |
-| 13  |     ja      |           views. py                                 |
-| 14  |      ja     |         views. py                                   |
-| 15  |      ja     |          views. py                                  |
+| 13  |     ja      |           views. py, def guess()                                |
+| 14  |      ja     |         views. py, def guess()                                  |
+| 15  |      ja     |          views. py, def guess()                                  |
 | 16  |     nein      |   -                                        |
 | 17  |     nein      |    -                                       |
 | 18  |     nein      |    -                                       |
