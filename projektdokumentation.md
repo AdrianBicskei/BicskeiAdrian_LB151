@@ -140,8 +140,30 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| A.1  |  02.03     |          |  Adrian Bicskei      |
+| 1.1  |   02.03     |          |    Adrian Bicskei      |
+| 2.1  |   02.03     |          |   Adrian Bicskei       |
+| 3.1  |   02.03     |          |    Adrian Bicskei      |
+| B.1  |  02.03      |          |   Adrian Bicskei       |
+| D.1  |  02.03      |          |    Adrian Bicskei      |
+| 4.1  |  02.03      |          |        |Adrian Bicskei  
+| B.2  |  02.03      |          |       Adrian Bicskei   |
+| D.2  |  02.03      |          |  Adrian Bicskei        |
+| 5.1  |  02.03      |          |   Adrian Bicskei       |
+| 7.1  |  02.03      |          |   Adrian Bicskei       |
+| 8.1  |   02.03     |          |   Adrian Bicskei       |
+| C.1  |   02.03     |          |   Adrian Bicskei       |
+| 7.2  |   02.03     |          |    Adrian Bicskei      |
+| 8.2  |   02.03     |          |    Adrian Bicskei      |
+| 11.1  |  02.03      |          |   Adrian Bicskei       |
+| D.3  |   02.03     |          |   Adrian Bicskei       |
+| 13.1  |  02.03      |          |  Adrian Bicskei        |
+| 14.1  |   02.03     |          |  Adrian Bicskei        |
+| 15.1  |   02.03     |          |  Adrian Bicskei        |
+| E.1  |    02.03    |          |   Adrian Bicskei       |
+| 7.3  |   02.03     |          |    Adrian Bicskei      |
+| 8.3  |  02.03      |          |    Adrian Bicskei      |
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
