@@ -5,11 +5,12 @@ Bicskei
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 26.01 | 0.0.1   | Ich habe das GitHub Repository erstellt und mich zum Python Flask mit Datenbanken verbunden informiert.   |
-| 02.02 | 0.0.2   | Ich habe die 4 Tiers beschrieben und die User Storys angefangen.           |       
+| 02.02 | 0.0.2   | Ich habe die ersten 4 Punkte der Dokumentation bearbeitet.           |       
 | 09.02 | 0.0.3   | Ich habe die User Storys fertiggestellt und die Testfälle angefangen.     |
-| 16.02 | 0.0.4   | Ich habe mit dem erstellen der Applikation begonnen.                                                             |
-| 23.02 | 0.0.6   |                                                              |
-|       | 1.0.0   |                                                              |
+| 16.02 | 0.0.4   | Ich habe an einem Python Flask Tracer Bullet-Prototyp gearbeitet und den Datenbank zum Spiel erstellt.                |
+| 23.02 | 0.0.6   | Ich habe an der Implementation der Anwendung gearbeitet.                                                           |
+| 26.02 | 0.0.7   | Ich habe an der Implementation der Anwendung gearbeitet und die Dokumentation nachgeführt.                                                      |
+| 02.03 | 1.0.0   | Ich habe getestet und die Dokumentation  für die Abgabe fertiggestellt.                                                             |
 
 # 0 Ihr Projekt
 
@@ -24,8 +25,6 @@ Bei diesem Projekt handelt es sich um eine abgewandte abgewandelte Version der 
 
 # 2 Technologie
 
-✍️ Beschreiben Sie für dieselben Tiers, welche Programmiersprache bzw. Technologie Sie verwenden möchten.
-
 * Tier 1 (Presentation): Für den User Interface verwende ich HTML-Templates im Rahmen einer Python Flask Projekt. 
 * Tier 2 (Webserver): Für die Steuerung in der Webapplikation verwende ich die Python Flask. 
 * Tier 3 (Application Server): Für die Geschäftslogik der Applikation verwende ich Python Flask. 
@@ -37,10 +36,6 @@ Bei diesem Projekt handelt es sich um eine abgewandte abgewandelte Version der 
 Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit Formularfeldern, welche nur dem Administrator durch Authentifizierung zugänglich sind. Mit einer dieser Formularseiten ist es dem Administrator möglich, einen bestimmten Spieler aus der Highscoreliste zu entfernen und mit dem anderen kann der Admin Wörter und Kategorien für das Spiel anlegen. 
 
 # 4.1 User Stories
-
-✍️ Formulieren Sie klare Anforderungen in der Form von User Stories (*„als … möchte ich … damit …“*) und zu jeder Anforderung mindestens einen dazugehörigen Testfall (in Kapitel 4.2). 
-
-✍️ Formulieren Sie weitere, eigene Anforderungen und Testfälle, wie Sie Ihre Applikation erweitern möchten. Geben Sie diesen statt einer Nummer einen Buchstaben (`A`, `B`, etc.)
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
@@ -67,11 +62,8 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 | C  |         Kann        |   Qualität   |    Als Kandidat möchte ich, dass ich durch das Anklicken eines zum Spiel passenden Bildes das Rad drehen kann, damit der Spielablauf schnell und einfach erfolgen kann.              |
 | D  |         Kann        |   Funktional   |    Als Administrator möchte ich, dass ich beim Besteuern der Datenbank die Tabelleninhalte auf der Webseite aufgelistet habe, damit ich über den Inhalt der Tabellen bewusst bin.              |
 | E |         Kann        |   Funktional   |    Als Kandidat möchte ich, dass mir zufällige Buchstaben der gestellten Frage mit Sternen abgedeckt werden, damit ich es schwierig habe das Wort zu erraten.              |
-
-
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
-
+ 
+ 
 # 4.2 Testfälle
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
@@ -98,13 +90,31 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
-| ...        |       |              |
+| 1, 2, 3, 4, A, B, D    | 16.02      |   User Stories zur Administrator und Steuerung          |
+| 5, 7, 8  | 16.02      |   User Stories zur Kandidat und Highscore Liste         |
 
 # 7 Projektdokumentation
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
 | 1    | ja / nein |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
+| ...  |           |                                           |
 | ...  |           |                                           |
 
 # 8 Testprotokoll
