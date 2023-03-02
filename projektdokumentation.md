@@ -96,7 +96,9 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 
 # 5 Prototyp
 
-✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
+![Interface](https://user-images.githubusercontent.com/112397931/222469110-e139b20d-98c0-4a19-b48f-a2831138ed06.jpg)
+
+
 
 # 6 Implementation
 
@@ -135,8 +137,7 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 | E  |    ja       |         views. py, def guess()                                 |
 
 # 8 Testprotokoll
-
-✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
+[https://youtu.be/Gm6lJDmtBCg](https://youtu.be/Gm6lJDmtBCg)
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
