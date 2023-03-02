@@ -70,15 +70,29 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 | ---- | ------------ | ------- | ----------------- |
 | A.1  |       Webapplikation starten      |     Admin Bild klicken        |        Admin Login Page           |
 | 1.1  |       Admin Bild wählen       |    Benutzername: adrian, Passwort: passwort      |        Admin Page           |
-| 2.1, 3.1, B.1, D.1  |       Als Admin eingeloggt, Bild für Wörter anlegen ausgewählt       |     Wort: Skoda, Kategorie: Automarke    |        Neue Liste mit Skoda enthalten           |
-| 4.1, B.2, D.2  |       Als Admin eingeloggt, Bild für Spieler löschen ausgewählt       |     id: 39   |        Neue Liste ohne Spieler ID 39          |
-| 5.1, 8.1, A.2 |      Spiel Bild ausgewählt       |     Name: Adrian  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert, Page zum Rad drehen         |
-| 7.1, 8.2, C.1  |     Name eingegeben/Rad gedreht       |     Name: Adrian/Rad drehen  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert       |
-| 11.1, D3 |     Als Admin eingeloggt, Bild für Wörter anlegen      |     -  |        Mindestens 15 Wörter angelegt      |
-| 13.1, 14.1, C.2, 7.2, 8.2 |    evtl. "random_bool" manuell auf False stellen, beim aktuellen Spieler manuell durch SQL-Befhel den Guthaben von 1500 setzen     |    Rad drehen |        Bankrott Page, Guthaben in der Highscore-Liste auf 0      |
-| 15.1, E.1, C.3,  7.3, 8.3  |    Bild Spiel gewählt     |    Rad drehen |        Guess Page, Kategorie: Automarke, Frage: Mercedes, mit zufälligen Buchstaben abgedeckt, Highscore-Liste    |
+| 2.1   |       Als Admin eingeloggt, Bild für Wörter anlegen ausgewählt       |     Wort: Skoda   |        Neue Liste mit Skoda enthalten           |
+| 3.1 |       Als Admin eingeloggt, Bild für Wörter anlegen ausgewählt       |      Kategorie: Automarke    |        Neue Liste mit Skoda enthalten        |$
+| B.1  |       Als Admin eingeloggt, Bild für Wörter anlegen ausgewählt         |    -      |        Add Word Page           |
+| D.1  |       Als Admin eingeloggt, Bild für Wörter anlegen ausgewählt         |    -      |          Wörter Tabelle        |
+| 4.1 |       Als Admin eingeloggt, Bild für Spieler löschen ausgewählt       |     id: 39   |        Neue Liste ohne Spieler ID 39          |
+| B.2  |       Als Admin eingeloggt, Bild für Spieler löschen ausgewählt        |    -      |        Drop User Page           |
+| D.2  |       Als Admin eingeloggt, Bild für Wörter Spieler löschen ausgewählt        |    -      |          Spieler Tabelle        |
+| 5.1 |      Spiel Bild ausgewählt       |     Name: Adrian  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert, Page zum Rad drehen         |
+| 7.1|      Spiel Bild ausgewählt, Name eingegeben       |   -    |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert |
+| 8.1  |    Spiel Bild ausgewählt, Name eingegeben        |  -    |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert       |
+| C.1  |     Spiel Bild ausgewählt, Name eingegeben      |  Rad drehen    |       Guess Page       |
+| 7.2 |     Rad gedreht       |    -  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert       |
+| 8.2 |     Rad gedreht       |    -  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert       |
+| 11.1 |     Als Admin eingeloggt, Bild für Wörter anlegen      |     -  |        Mindestens 15 Wörter angelegt      |
+| D.1 |     Als Admin eingeloggt, Bild für Wörter anlegen      |     -  |        Mindestens 15 Wörter angelegt      |
+| 13.1 |    "random_bool" manuell auf False stellen, beim aktuellen Spieler manuell durch SQL-Befhel den Guthaben von 1500 setzen     |    Rad drehen |        Bankrott Page, Guthaben in der Highscore-Liste auf 0      |
+| 14.1 |    beim aktuellen Spieler manuell durch SQL-Befhel den Guthaben von 1500 setzen     |    Rad drehen |        Bankrott Page, Guthaben in der Highscore-Liste auf 0      |
+| 15.1 |   Rad gedreht     |   -  |        Guess Page, Kategorie: Automarke, Frage: Mercedes, mit zufälligen Buchstaben abgedeckt, Highscore-Liste   |
+| E.1 |    Rad gedreht     |   - |        Guess Page, Kategorie: Automarke, Frage: Mercedes, mit zufälligen Buchstaben abgedeckt, Highscore-Liste   |
+| 7.3 |    Rad gedreht    |    - |        Guess Page, Kategorie: Automarke, Frage: Mercedes, mit zufälligen Buchstaben abgedeckt, Highscore-Liste    |
+|  8.3  |    Rad gedreht     |    - |        Guess Page, Kategorie: Automarke, Frage: Mercedes, mit zufälligen Buchstaben abgedeckt, Highscore-Liste    |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 # 5 Prototyp
 
