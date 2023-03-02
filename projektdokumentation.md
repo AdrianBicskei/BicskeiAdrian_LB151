@@ -84,7 +84,7 @@ Die Ansteuerung der Datenbank erfolgt durch zwei vom Spiel separaten Seiten mit 
 | 7.2 |     Rad gedreht       |    -  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert       |
 | 8.2 |     Rad gedreht       |    -  |        Highscore-Liste mit Spieler Adrian enthalten nach Geldbetrag aufsteigend sortiert       |
 | 11.1 |     Als Admin eingeloggt, Bild für Wörter anlegen      |     -  |        Mindestens 15 Wörter angelegt      |
-| D.1 |     Als Admin eingeloggt, Bild für Wörter anlegen      |     -  |        Mindestens 15 Wörter angelegt      |
+| D.3 |     Als Admin eingeloggt, Bild für Wörter anlegen      |     -  |        Mindestens 15 Wörter angelegt      |
 | 13.1 |    "random_bool" manuell auf False stellen, beim aktuellen Spieler manuell durch SQL-Befhel den Guthaben von 1500 setzen     |    Rad drehen |        Bankrott Page, Guthaben in der Highscore-Liste auf 0      |
 | 14.1 |    beim aktuellen Spieler manuell durch SQL-Befhel den Guthaben von 1500 setzen     |    Rad drehen |        Bankrott Page, Guthaben in der Highscore-Liste auf 0      |
 | 15.1 |   Rad gedreht     |   -  |        Guess Page, Kategorie: Automarke, Frage: Mercedes, mit zufälligen Buchstaben abgedeckt, Highscore-Liste   |
